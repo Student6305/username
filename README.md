@@ -1,2 +1,2 @@
 # username
-Data analysth
+Data analyst
